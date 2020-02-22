@@ -4,9 +4,9 @@
 
 
 
-// ### Problem 1
+// // ### Problem 1
 
-// Create a ```printNumbers``` function to print integers from -25 to 20.
+// // Create a ```printNumbers``` function to print integers from -25 to 20.
 
 
 // function printNumbers() {
@@ -19,16 +19,17 @@
 
 // // ### Problem 2
 // // Create a function that’s passed a firstName and lastName. Return lastName comma firstName.
+// !! : check your syntax
 // firstName =
-// function userName (firstName,lastName) 
+//     function userName(firstName, lastName) 
 // return (firstName + lastName);
 
 // {
 
 // }
 
-// ### Problem 3
-// Create a function in your program that counts from 0 to [NUMBER]
+// // ### Problem 3
+// // Create a function in your program that counts from 0 to [NUMBER]
 
 // // Create a function
 // function NUMBER () {  
@@ -47,11 +48,11 @@
 // Return true if they are equal and false if they are not equal. 
 // Print the function's return value.
 
-function checkPassword () 
-{
+// function checkPassword () 
+// {
 
-    
-}
+
+// }
 
 
 
